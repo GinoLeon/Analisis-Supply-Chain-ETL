@@ -1,0 +1,10 @@
+# Entornos
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

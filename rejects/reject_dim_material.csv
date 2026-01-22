@@ -1,0 +1,5 @@
+Product_type,SKU,Price,Availability,Number_of_products_sold,Revenue_generated,Customer_demographics,Stock_levels,Lead_times,Order_quantities,Shipping_times,Shipping_carriers,Shipping_costs,Supplier_name,Location,Lead_time,Production_volumes,Manufacturing_lead_time,Manufacturing_costs,Inspection_results,Defect_rates,Transportation_modes,Routes,Costs,Reorder_Point
+skincare,SKU1,14.84352327508434,95,736,7460.900065445849,Female,53,30,37,2,Carrier A,9.71657477143131,Supplier 3,Mumbai,23,517,30,33.61676895373,Pending,4.854068026388706,Road,Route B,503.0655791496692,736.0
+haircare,SKU2,11.319683293090566,34,8,9577.74962586873,Unknown,1,10,88,2,Carrier B,8.054479261732155,Supplier 1,Mumbai,12,971,27,30.688019348284204,Pending,4.580592619199229,Air,Route C,141.92028177151906,2.6666666666666665
+skincare,SKU1,45.5,120,450,5625.75,Female,80,5,60,3,Carrier A,1.85,Supplier 1,Delhi,21,180,20,32.75,Passed,0.082,Air,Route A,120.4,75.0
+cosmetics,SKU2,89.99,70,620,10234.8,Male,45,10,75,6,Carrier C,3.4,Supplier 2,Bangalore,35,260,32,58.9,Passed,0.145,Sea,Route C,245.1,206.66666666666669
